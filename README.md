@@ -1,1 +1,0 @@
-# WooCommerce-logout-without-confirmation-how-to-remove-Are-you-sure-you-want-to-Logout-
